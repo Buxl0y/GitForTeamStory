@@ -8,15 +8,15 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 ## Our Wonderful Story
 
 1. Once upon a time, there was a **castle**.  
-   ![castle](img\castle.png)
+   ![castle](img/castle.png)
 
 2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
-   ![dragon](img\dragon.png)
+   ![dragon](img/dragon.png)
 
 3. The scientist shouted something very important but nobody wrote it down.  
- ![scientist](img\scientist.png)
+ ![scientist](img/scientist.png)
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   ![treasure chest](img\treasure_large.png)
+   ![treasure chest](img/treasure_large.png)
 
 5. Someone found a map, but it had no directions.  
  ![map](/img/map.png)
@@ -31,4 +31,4 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 9. In the forest, the detective discovered… something....
 
 10. Sudeenly, They found a scary ghost !
-![ghost](img\ghost.png)
+![ghost](img/ghost.png)
