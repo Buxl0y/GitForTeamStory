@@ -26,9 +26,9 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 7. A rocket blasted off, but at the same time the **time machine** broke down.  
  ![timemachine](/img/timemachine.png)
 8. The cat was supposed to talk here, but the line is missing.  
-" I love you " said cat
+" I love you " cat said
  ![cat](img/cat.png)
-9. In the forest, the detective discovered… something....
+9. In the forest, the detective discovered something...
 
-10. Sudeenly, They found a scary ghost !
+10. Suddenly, They found a scary ghost !
 ![ghost](img/ghost.png)
