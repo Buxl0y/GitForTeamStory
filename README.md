@@ -39,12 +39,18 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 9. Crash-landing straight into a dark forest, a world-class **detective** was already inspecting the crater with a magnifying glass, searching for clues.  
    ![detective](img/detective.png)
 
-10. Suddenly, a spooky **ghost** floated out from behind the trees! But instead of haunting them, it offered Wi-Fi and asked them to keep the noise down.  
-    ![ghost](img/ghost.png)
+10. Suddenly, They found a scary ghost !
+![ghost](img/ghost.png)
 
-11. An **alien** and an **ogre** emerged from the brush, having spectated the entire catastrophe with popcorn.  
-    ![alien](img/alien.png)  
-    ![ogre](img/ogre.png)
+11. The ghost shouted, “Don’t be afraid! I’m the king of the castle, and someone stole my treasure!” The detective pointed at the treasure chest.
+![ghost](img/ghost.png)
 
-12. Together, they finally pried open the **treasure chest**—and inside was the remote control to turn off the robot dragon. The kingdom was saved!  
-    ![treasure open](img/treasure_open.png)
+12. The pirate opened the treasure chest, hoping to find gold. Instead, he found a big red button with a sign that said, “DO NOT PRESS!”
+![treasure chest](img/treasure_large.png)
+
+13. The scientist shouted, “Don’t press that button!” But the pirate pressed it anyway. Suddenly, the time machine started working, and everyone was teleported to the moon!
+![timemachine](/img/timemachine.png)
+
+14. Arriving on the moon, an **alien** and an **ogre** were already sitting on lawn chairs with popcorn, having watched the entire spectacle unfold.  
+![alien](img/alien.png)  
+![ogre](img/ogre.png)
