@@ -32,3 +32,12 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 10. Suddenly, They found a scary ghost !
 ![ghost](img/ghost.png)
+
+11. The ghost shouted, “Don’t be afraid! I’m the king of the castle, and someone stole my treasure!” The detective pointed at the treasure chest.
+![ghost](img/ghost.png)
+
+12. The pirate opened the treasure chest, hoping to find gold. Instead, he found a big red button with a sign that said, “DO NOT PRESS!”
+![treasure chest](img/treasure_large.png)
+
+13. The scientist shouted, “Don’t press that button!” But the pirate pressed it anyway. Suddenly, the time machine started working, and everyone was teleported to the moon!
+![timemachine](/img/timemachine.png)
